@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<OrgDetails>
+		<Org id="00D7F000007BWZtUAO">
+			<OAuth>
+				<accesstoken>00D7F000007BWZt!AQwAQM5vJ3ch09z9ZGHCP7YTCy5p2YN0GdVHA21iIlr3dpWnU8lNEzMYSG9HXwXbJ58OJ1rZifE7zbmRjlBTKND9DpzbkwET</accesstoken>
+				<refereshToken>5Aep8613hy0tHCYdhzDBYEu.1Yufs3BItQCt90UOXJnTfnqdyRR6p1IvxtEPdYQ9Z6E939KKL0K9Sk198P4lavk</refereshToken>
+				<instanceURL>https://ap5.salesforce.com</instanceURL>
+			</OAuth>
+		</Org>
+</OrgDetails>
